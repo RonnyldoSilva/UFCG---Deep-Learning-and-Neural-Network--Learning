@@ -14,8 +14,10 @@ sudo apt-get install -y python3-numpy python3-scipy
 
 Download: https://github.com/BVLC/caffe
 
+```
 cd caffe-master
 cp Makefile.config.example Makefile.config
+```
 
 	* Se for usar o classificador Caffe apenas com uso do CPU, 
 

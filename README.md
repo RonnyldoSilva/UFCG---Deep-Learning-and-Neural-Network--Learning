@@ -12,8 +12,8 @@ sudo apt-get install -y python3-dev
 sudo apt-get install -y python3-numpy python3-scipy
 ```
 
-Download: https://github.com/BVLC/caffe
-
+Download: https://github.com/BVLC/caffe 
+ 
 ```
 cd caffe-master
 cp Makefile.config.example Makefile.config
